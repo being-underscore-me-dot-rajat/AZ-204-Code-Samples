@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "servicebus_recmsg", "servicebus_recmsg.csproj", "{2E48BA70-FC85-5E93-C8EE-42F9F289E92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E48BA70-FC85-5E93-C8EE-42F9F289E92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E48BA70-FC85-5E93-C8EE-42F9F289E92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E48BA70-FC85-5E93-C8EE-42F9F289E92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E48BA70-FC85-5E93-C8EE-42F9F289E92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB0CA3D2-E559-4D4E-AC38-8BBF689646FD}
+	EndGlobalSection
+EndGlobal

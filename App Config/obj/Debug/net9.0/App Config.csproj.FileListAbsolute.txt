@@ -1,0 +1,48 @@
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\App Config.exe
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\App Config.deps.json
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\App Config.runtimeconfig.json
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\App Config.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\App Config.pdb
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Azure.Data.AppConfiguration.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Azure.Messaging.EventGrid.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Azure.Messaging.EventGrid.SystemEvents.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\DnsClient.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Azure.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\App Config.csproj.AssemblyReference.cache
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\App Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\App Config.AssemblyInfoInputs.cache
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\App Config.AssemblyInfo.cs
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\App Config.csproj.CoreCompileInputs.cache
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\App Config.csproj.Up2Date
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\App Config.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\refint\App Config.dll
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\App Config.pdb
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\App Config.genruntimeconfig.cache
+C:\Users\Acss\Desktop\AZ-204 code samples\App Config\obj\Debug\net9.0\ref\App Config.dll

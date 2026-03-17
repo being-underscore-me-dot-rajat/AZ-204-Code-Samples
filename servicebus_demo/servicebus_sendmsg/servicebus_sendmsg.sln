@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "servicebus_sendmsg", "servicebus_sendmsg\servicebus_sendmsg.csproj", "{691165B6-FFD3-4384-858F-74359AE7233C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "servicebus_recmsg", "..\servicebus_recmsg\servicebus_recmsg\servicebus_recmsg.csproj", "{53653E43-CE49-4365-808C-3F13CC30E4F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691165B6-FFD3-4384-858F-74359AE7233C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691165B6-FFD3-4384-858F-74359AE7233C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691165B6-FFD3-4384-858F-74359AE7233C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691165B6-FFD3-4384-858F-74359AE7233C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53653E43-CE49-4365-808C-3F13CC30E4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53653E43-CE49-4365-808C-3F13CC30E4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53653E43-CE49-4365-808C-3F13CC30E4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53653E43-CE49-4365-808C-3F13CC30E4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D97E437A-8958-420A-B9D2-A8AF254FFEEB}
+	EndGlobalSection
+EndGlobal
